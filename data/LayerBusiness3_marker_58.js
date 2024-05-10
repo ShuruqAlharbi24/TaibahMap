@@ -1,0 +1,1 @@
+var json_LayerBusiness3_marker_58 = {"type":"FeatureCollection","name":"LayerBusiness3_marker_58","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"type":"exit"},"geometry":{"type":"Point","coordinates":[39.55107638696866,24.488656453397947]}}]}

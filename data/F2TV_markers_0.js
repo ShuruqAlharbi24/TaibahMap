@@ -1,0 +1,1 @@
+var json_F2TV_markers_0 = {"type":"FeatureCollection","name":"F2TV_markers_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"type":"exit"},"geometry":{"type":"Point","coordinates":[39.550922918857239,24.489234005806907]}}]}

@@ -1,0 +1,1 @@
+var json_F1tahdiri_markers_44 = {"type":"FeatureCollection","name":"F1tahdiri_markers_44","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"type":"pray"},"geometry":{"type":"Point","coordinates":[39.548359300133477,24.489550802931198]}}]}

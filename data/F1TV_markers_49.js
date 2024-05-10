@@ -1,0 +1,1 @@
+var json_F1TV_markers_49 = {"type":"FeatureCollection","name":"F1TV_markers_49","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"type":"exit"},"geometry":{"type":"Point","coordinates":[39.551592502679078,24.489417519774797]}}]}

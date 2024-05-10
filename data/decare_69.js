@@ -1,0 +1,1 @@
+var json_decare_69 = {"type":"FeatureCollection","name":"decare_69","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":null},{"type":"Feature","properties":{},"geometry":null},{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[39.550134939239832,24.488031376094195]}}]}

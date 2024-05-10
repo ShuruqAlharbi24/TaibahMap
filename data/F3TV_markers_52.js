@@ -1,0 +1,1 @@
+var json_F3TV_markers_52 = {"type":"FeatureCollection","name":"F3TV_markers_52","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"type":"exit"},"geometry":{"type":"Point","coordinates":[39.551588121779105,24.489418103745148]}}]}

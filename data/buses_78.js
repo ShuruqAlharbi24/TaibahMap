@@ -1,0 +1,1 @@
+var json_buses_78 = {"type":"FeatureCollection","name":"buses_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"موقف حافلات ","Disc":"لمزيد من المعلومات عن حافلات جامعة طيبة يرجى زيارة الرابط الاتي:"},"geometry":{"type":"Point","coordinates":[39.551032128123943,24.490252118627705]}}]}
