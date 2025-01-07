@@ -1,7 +1,7 @@
 # TaibahMap
 
 ## Overview
-TaibahMap is a web application designed to provide users with an interactive map of Taibah. This project is built using qgis, qgis2web, PHP, JavaScript, and CSS, and it requires a local server environment to run.
+TaibahMap is a web application that offers users an interactive map of Taibah. Built using QGIS, qgis2web, PHP, JavaScript, and CSS, this project requires a local server environment to operate effectively.
 
 ## Prerequisites
 To run this project, you will need to have the following installed:
